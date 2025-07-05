@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "fa": "او یک سگ بزرگ دارد.",
+    "en": "She has a big dog.",
+    "grammar_id": 1,
+    "level": "A1"
+  },
+  {
+    "id": 2,
+    "fa": "او هر روز صبح می‌دود.",
+    "en": "She runs every morning.",
+    "grammar_id": 2,
+    "level": "A1"
+  },
+  {
+    "id": 3,
+    "fa": "آن‌ها در خانه‌ی زیبا زندگی می‌کنند.",
+    "en": "They live in a beautiful house.",
+    "grammar_id": 1,
+    "level": "A2"
+  },
+  {
+    "id": 4,
+    "fa": "انها به مدرسه رفتند.",
+    "en": "They went to school.",
+    "grammar_id": 2,
+    "level": "A2"
+  },
+  {
+    "id": 5,
+    "fa": "من عاشق کتاب خواندن هستم.",
+    "en": "I love reading books.",
+    "grammar_id": 1,
+    "level": "A2"
+  },
+  {
+    "id": 6,
+    "fa": "ما فردا به پارک می‌رویم.",
+    "en": "We will go to the park tomorrow.",
+    "grammar_id": 2,
+    "level": "A2"
+  },
+  {
+    "id": 7,
+    "fa": "او قهوه‌اش را هر صبح می‌نوشد.",
+    "en": "He drinks his coffee every morning.",
+    "grammar_id": 1,
+    "level": "A2"
+  },
+  {
+    "id": 8,
+    "fa": "آن‌ها در حال بازی فوتبال هستند.",
+    "en": "They are playing football.",
+    "grammar_id": 2,
+    "level": "A2"
+  },
+  {
+    "id": 9,
+    "fa": "دیروز باران شدید بارید.",
+    "en": "It rained heavily yesterday.",
+    "grammar_id": 2,
+    "level": "A2"
+  },
+  {
+    "id": 10,
+    "fa": "من هر روز به مدرسه می‌روم.",
+    "en": "I go to school every day.",
+    "grammar_id": 2,
+    "level": "A1"
+  },
+  {
+    "id": 11,
+    "fa": "او بسیار مهربان است.",
+    "en": "She is very kind.",
+    "grammar_id": 1,
+    "level": "A1"
+  },
+  {
+    "id": 12,
+    "fa": "آن‌ها در کتابخانه مطالعه می‌کنند.",
+    "en": "They study in the library.",
+    "grammar_id": 2,
+    "level": "A2"
+  },
+  {
+    "id": 13,
+    "fa": "ما هر هفته فوتبال بازی می‌کنیم.",
+    "en": "We play football every week.",
+    "grammar_id": 2,
+    "level": "A2"
+  },
+  {
+    "id": 14,
+    "fa": "من همیشه قهوه‌ام را با شیر می‌نوشم.",
+    "en": "I always drink my coffee with milk.",
+    "grammar_id": 2,
+    "level": "A2"
+  },
+  {
+    "id": 15,
+    "fa": "او در مدرسه دوچرخه‌سواری می‌کند.",
+    "en": "He rides his bike to school.",
+    "grammar_id": 2,
+    "level": "A2"
+  },
+  {
+    "id": 16,
+    "fa": "آن‌ها هر روز عصر پیاده‌روی می‌کنند.",
+    "en": "They walk every evening.",
+    "grammar_id": 2,
+    "level": "A2"
+  },
+  {
+    "id": 17,
+    "fa": "من کتاب جدیدی خریدم.",
+    "en": "I bought a new book.",
+    "grammar_id": 2,
+    "level": "A2"
+  },
+  {
+    "id": 18,
+    "fa": "او همیشه با دوستانش صحبت می‌کند.",
+    "en": "She always talks with her friends.",
+    "grammar_id": 2,
+    "level": "A2"
+  },
+  {
+    "id": 19,
+    "fa": "ما در تابستان به تعطیلات می‌رویم.",
+    "en": "We go on vacation in the summer.",
+    "grammar_id": 2,
+    "level": "A2"
+  },
+  {
+    "id": 20,
+    "fa": "او عاشق فیلم دیدن است.",
+    "en": "He loves watching movies.",
+    "grammar_id": 1,
+    "level": "A2"
+  }
+]

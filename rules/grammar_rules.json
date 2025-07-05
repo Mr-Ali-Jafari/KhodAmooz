@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "ترتیب صفت و اسم",
+    "description": "در زبان انگلیسی، صفت معمولاً قبل از اسم قرار می‌گیرد و صفات کیفیت یا اندازه قبل از صفات رنگ می‌آیند.",
+    "examples": [
+      {
+        "sentence": "A beautiful girl.",
+        "explanation": "beautiful = adjective, girl = noun"
+      },
+      {
+        "sentence": "He has a big house.",
+        "explanation": "big = adjective, house = noun"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "حال ساده سوم شخص مفرد",
+    "description": "در زمان حال ساده، اگر فاعل سوم شخص مفرد باشد، فعل اصلی به s یا es ختم می‌شود.",
+    "examples": [
+      {
+        "sentence": "She runs every morning.",
+        "explanation": "فاعل: She → فعل: runs (با s)"
+      },
+      {
+        "sentence": "He watches TV.",
+        "explanation": "فاعل: He → فعل: watches (با es)"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "استفاده از حروف تعریف a/an/the",
+    "description": "در زبان انگلیسی، برای اشاره به اسامی نکره از a یا an و برای اسامی معرفه از the استفاده می‌شود. a قبل از کلمات با صدای همخوان و an قبل از کلمات با صدای واکه می‌آید.",
+    "examples": [
+      {
+        "sentence": "I saw a cat in the garden.",
+        "explanation": "a برای اشاره به یک گربه نکره استفاده شده است."
+      },
+      {
+        "sentence": "She is an engineer.",
+        "explanation": "an قبل از engineer چون با صدای واکه شروع می‌شود."
+      }
+    ]
+  }
+]
