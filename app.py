@@ -255,10 +255,10 @@ def grammar_check(text):
 grammar_rules = load_grammar_rules()
 exercises = load_exercises()
 
-st.set_page_config(page_title="دستیار یادگیری زبان انگلیسی", layout="centered")
+st.set_page_config(page_title="دستیار یادگیری خودآموز", layout="centered")
 
 # Main title
-st.markdown('<div class="title-container rtl-text"><h1>دستیار هوشمند یادگیری زبان انگلیسی</h1></div>', unsafe_allow_html=True)
+st.markdown('<div class="title-container rtl-text"><h1>دستیار هوشمند یادگیری خودآموز</h1></div>', unsafe_allow_html=True)
 
 # Grammar rules section
 st.markdown('<div class="header-container rtl-text"><h2>قوانین گرامری</h2></div>', unsafe_allow_html=True)
