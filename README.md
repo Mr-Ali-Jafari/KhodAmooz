@@ -50,6 +50,6 @@
 ## راه ارتباطی:
 - LinkedIn: @Mr-Ali-Jafari
 - Telegram : @ali_j4fari
-- Folio: https://ali-folio.ir2
+- Folio: https://ali-folio.ir
 
 این پروژه با هدف کمک به یادگیری بهتر زبان انگلیسی برای فارسی‌زبانان توسعه یافته است. 
